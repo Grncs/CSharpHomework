@@ -1,0 +1,7 @@
+H:\C#Code\Timer1\Timer1\bin\Release\Timer1.exe.config
+H:\C#Code\Timer1\Timer1\bin\Release\Timer1.exe
+H:\C#Code\Timer1\Timer1\bin\Release\Timer1.pdb
+H:\C#Code\Timer1\Timer1\obj\Release\Timer1.csprojResolveAssemblyReference.cache
+H:\C#Code\Timer1\Timer1\obj\Release\Timer1.csproj.CoreCompileInputs.cache
+H:\C#Code\Timer1\Timer1\obj\Release\Timer1.exe
+H:\C#Code\Timer1\Timer1\obj\Release\Timer1.pdb

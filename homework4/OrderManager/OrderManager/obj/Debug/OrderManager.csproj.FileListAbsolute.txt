@@ -1,0 +1,7 @@
+H:\C#Code\OrderManager\OrderManager\bin\Debug\OrderManager.exe.config
+H:\C#Code\OrderManager\OrderManager\bin\Debug\OrderManager.exe
+H:\C#Code\OrderManager\OrderManager\bin\Debug\OrderManager.pdb
+H:\C#Code\OrderManager\OrderManager\obj\Debug\OrderManager.csprojResolveAssemblyReference.cache
+H:\C#Code\OrderManager\OrderManager\obj\Debug\OrderManager.csproj.CoreCompileInputs.cache
+H:\C#Code\OrderManager\OrderManager\obj\Debug\OrderManager.exe
+H:\C#Code\OrderManager\OrderManager\obj\Debug\OrderManager.pdb
