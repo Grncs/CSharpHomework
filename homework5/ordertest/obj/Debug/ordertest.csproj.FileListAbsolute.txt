@@ -12,3 +12,10 @@ H:\C#Code\homework5_2\ordertest\obj\Debug\ordertest.csprojResolveAssemblyReferen
 H:\C#Code\homework5_2\ordertest\obj\Debug\ordertest.csproj.CoreCompileInputs.cache
 H:\C#Code\homework5_2\ordertest\obj\Debug\ordertest.exe
 H:\C#Code\homework5_2\ordertest\obj\Debug\ordertest.pdb
+H:\C#repository\CSharpHomework\homework5\ordertest\bin\Debug\ordertest.exe.config
+H:\C#repository\CSharpHomework\homework5\ordertest\bin\Debug\ordertest.exe
+H:\C#repository\CSharpHomework\homework5\ordertest\bin\Debug\ordertest.pdb
+H:\C#repository\CSharpHomework\homework5\ordertest\obj\Debug\ordertest.csprojResolveAssemblyReference.cache
+H:\C#repository\CSharpHomework\homework5\ordertest\obj\Debug\ordertest.csproj.CoreCompileInputs.cache
+H:\C#repository\CSharpHomework\homework5\ordertest\obj\Debug\ordertest.exe
+H:\C#repository\CSharpHomework\homework5\ordertest\obj\Debug\ordertest.pdb
