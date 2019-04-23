@@ -1,0 +1,15 @@
+H:\C#Code\homework8\orderform\bin\Debug\orderform.exe.config
+H:\C#Code\homework8\orderform\bin\Debug\orderform.exe
+H:\C#Code\homework8\orderform\bin\Debug\orderform.pdb
+H:\C#Code\homework8\orderform\obj\Debug\orderform.csprojResolveAssemblyReference.cache
+H:\C#Code\homework8\orderform\obj\Debug\orderform.Form1.resources
+H:\C#Code\homework8\orderform\obj\Debug\orderform.Properties.Resources.resources
+H:\C#Code\homework8\orderform\obj\Debug\orderform.csproj.GenerateResource.cache
+H:\C#Code\homework8\orderform\obj\Debug\orderform.csproj.CoreCompileInputs.cache
+H:\C#Code\homework8\orderform\obj\Debug\orderform.exe
+H:\C#Code\homework8\orderform\obj\Debug\orderform.pdb
+H:\C#Code\homework8\orderform\bin\Debug\ordertest.exe
+H:\C#Code\homework8\orderform\bin\Debug\ordertest.pdb
+H:\C#Code\homework8\orderform\bin\Debug\ordertest.exe.config
+H:\C#Code\homework8\orderform\obj\Debug\orderform.csproj.CopyComplete
+H:\C#Code\homework8\orderform\obj\Debug\orderform.Form2.resources
