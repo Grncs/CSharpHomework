@@ -1,0 +1,11 @@
+H:\C#Code\orderapi\bin\Debug\netcoreapp2.0\orderapi.deps.json
+H:\C#Code\orderapi\bin\Debug\netcoreapp2.0\orderapi.runtimeconfig.json
+H:\C#Code\orderapi\bin\Debug\netcoreapp2.0\orderapi.runtimeconfig.dev.json
+h:\C#Code\orderapi\bin\Debug\netcoreapp2.0\orderapi.dll
+h:\C#Code\orderapi\bin\Debug\netcoreapp2.0\orderapi.pdb
+h:\C#Code\orderapi\obj\Debug\netcoreapp2.0\orderapi.csprojResolveAssemblyReference.cache
+h:\C#Code\orderapi\obj\Debug\netcoreapp2.0\orderapi.csproj.CoreCompileInputs.cache
+h:\C#Code\orderapi\obj\Debug\netcoreapp2.0\orderapi.AssemblyInfoInputs.cache
+h:\C#Code\orderapi\obj\Debug\netcoreapp2.0\orderapi.AssemblyInfo.cs
+h:\C#Code\orderapi\obj\Debug\netcoreapp2.0\orderapi.dll
+h:\C#Code\orderapi\obj\Debug\netcoreapp2.0\orderapi.pdb
