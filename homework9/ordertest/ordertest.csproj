@@ -125,11 +125,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainClass.cs" />
     <Compile Include="Goods.cs" />
+    <Compile Include="MainClass.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderDetail.cs" />
-    <Compile Include="OrderService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Customer.cs" />
   </ItemGroup>

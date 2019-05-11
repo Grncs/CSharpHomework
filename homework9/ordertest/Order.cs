@@ -14,7 +14,18 @@ namespace ordertest {
   [Serializable]
   public class Order :IComparable<Order>{
 
-    private List<OrderDetail> details = new List<OrderDetail>();
+        [Key]
+        public int Id { get; set; }
+        public Customer Customer { get; set; }
+        public float TotalAmount
+        {
+            get => details.Sum(d => d.Amount);
+        }
+        public List<OrderDetail> Details
+        {
+            get => this.details;
+        }
+        private List<OrderDetail> details = new List<OrderDetail>();
 
     /// <summary>
     ///  default constructor
@@ -32,27 +43,15 @@ namespace ordertest {
       Customer = customer;
     }
 
-        /// <summary>
-        /// order's id
-        /// </summary>
-        [Key]
-        public int Id { get; set; }
+        
+        
+        
 
-    /// <summary>
-    /// the customer
-    /// </summary>
-    public Customer Customer { get; set; }
+    
+    
 
-    /// <summary>
-    /// the total amount of the order
-    /// </summary>
-    public float TotalAmount {
-      get => details.Sum(d => d.Amount);
-    }
-
-    public List<OrderDetail> Details {
-      get => this.details;
-    }
+    
+    
 
     /// <summary>
     /// add new orderDetail into the order

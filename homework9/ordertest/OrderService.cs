@@ -30,6 +30,7 @@ namespace ordertest {
     /// </summary>
     /// <param name="order">the order to be added</param>
     public void AddOrder(Order order) {
+            
       if (orderList.Contains(order)) {
         throw new ApplicationException($"the orderList contains an order with ID {order.Id} !");
       }
